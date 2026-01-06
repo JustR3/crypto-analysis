@@ -1,0 +1,14 @@
+# Crypto Analysis Requirements
+# This file is for compatibility with tools that don't use uv.
+# Primary dependency management is in pyproject.toml
+
+ccxt>=4.5.20
+jupyterlab>=4.5.0
+matplotlib>=3.9.4
+numpy>=2.0.2
+pandas>=2.3.3
+seaborn>=0.13.2
+ipykernel>=6.31.0
+
+# Development dependencies
+pytest>=7.0.0
